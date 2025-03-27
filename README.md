@@ -48,7 +48,6 @@ Predicts a user's movie rating using:
 
 To avoid including large files in the repo, we provide a script to download the MovieLens dataset.
 
-```bash
 python download_data.py
 
 or 
